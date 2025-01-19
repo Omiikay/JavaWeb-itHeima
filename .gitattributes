@@ -4,7 +4,6 @@ day13-SpringBootWeb[[:space:]]AOP filter=lfs diff=lfs merge=lfs -text
 day14-SpringBoot原理篇 filter=lfs diff=lfs merge=lfs -text
 day15-maven高级 filter=lfs diff=lfs merge=lfs -text
 day09-Mybatis filter=lfs diff=lfs merge=lfs -text
-通过git将本地项目上传到远程仓库.txt filter=lfs diff=lfs merge=lfs -text
 ajax地址访问不了-解决方案 filter=lfs diff=lfs merge=lfs -text
 day02-JavaScript-Vue filter=lfs diff=lfs merge=lfs -text
 day06-MySQL filter=lfs diff=lfs merge=lfs -text
